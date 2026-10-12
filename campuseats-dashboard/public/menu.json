@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Kottu Roti",
+    "price": 750,
+    "category": "Mains",
+    "available": true,
+    "image": "https://i.pinimg.com/1200x/3f/c5/0e/3fc50e70eeef3f9b2a9ee033417adb8b.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fried Rice",
+    "price": 850,
+    "category": "Mains",
+    "available": true,
+    "image": "https://i.pinimg.com/736x/fa/ba/78/faba78f446c7b73a1fc10854c66836ef.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Veg Sub",
+    "price": 600,
+    "category": "Snacks",
+    "available": false,
+    "image": "https://i.pinimg.com/736x/68/61/6c/68616c6867b2dcb85c38d369a47baf56.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Watalappan",
+    "price": 350,
+    "category": "Dessert",
+    "available": true,
+    "image": "https://i.pinimg.com/1200x/86/67/e6/8667e6d6df88eca115254236e17e1eaa.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Iced Milo",
+    "price": 300,
+    "category": "Drinks",
+    "available": true,
+    "image" : "https://i.pinimg.com/736x/4e/3a/2f/4e3a2fe0d997bf86087317a73aa87a4c.jpg"
+  }
+]

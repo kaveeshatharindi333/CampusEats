@@ -1,0 +1,19 @@
+﻿# React frontend dependencies and build output
+campuseats-dashboard/node_modules/
+campuseats-dashboard/dist/
+
+# .NET generated files
+CampusEats.Api/bin/
+CampusEats.Api/obj/
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+**/appsettings.Local.json
+**/appsettings.*.Local.json
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db

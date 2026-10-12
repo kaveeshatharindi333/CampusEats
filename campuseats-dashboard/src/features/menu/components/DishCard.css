@@ -1,0 +1,35 @@
+.dish-card{
+    width:260px;
+    background:white;
+    border-radius:12px;
+    padding:15px;
+    text-align:center;
+    box-shadow:0 4px 10px rgba(0,0,0,.15);
+    transition:.3s;
+}
+
+.dish-card:hover{
+    transform:translateY(-5px);
+}
+
+.dish-image{
+    width:100%;
+    height:170px;
+    object-fit:cover;
+    border-radius:10px;
+}
+
+.price{
+    color:#ff5722;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.category{
+    color:gray;
+}
+
+.sold{
+    color:red;
+    font-weight:bold;
+}

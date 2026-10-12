@@ -1,0 +1,11 @@
+.menu-grid{
+
+    display:flex;
+    flex-wrap:wrap;
+    gap:30px;
+
+    justify-content:center;
+
+    margin-top:30px;
+
+}
